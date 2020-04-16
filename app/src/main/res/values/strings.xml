@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InstagramTest</string>
+    <string name="ppower">Enter Punching Power</string>
+    <string name="pspeed">Enter Punching Speed</string>
+    <string name="kpower">Enter Kicking Power</string>
+    <string name="kspeed">Enter Kicking Speed</string>
+    <string name="fname">Enter Your First Name</string>
+
+</resources>
